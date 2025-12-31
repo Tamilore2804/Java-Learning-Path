@@ -1,4 +1,4 @@
-public class GemGem {
+public class TwoDimensionArrayLesson {
     public static void main(String[] args){
 
 
